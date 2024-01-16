@@ -6,7 +6,6 @@ Repositório para armazenar o desafio solicitado pelo professor Felipão da plat
 
 - Variáveis
 - Operadores
-- Laços de repetição
 - Estruturas de decisões
 - Funções
 - Classes e Objetos
@@ -37,9 +36,11 @@ Além disso, deve ter um método chamado atacar que deve atender os seguintes re
 
 Ao final deve se exibir uma mensagem:
 
-- "o **{tipo}** atacou usando **{ataque}**"
+"o **{tipo}** atacou usando **{ataque}**"
 
-  ex: mago atacou usando magia   guerreiro atacou usando espada
+  ex: 
+  - mago atacou usando magia   
+  - guerreiro atacou usando espada
 
 ## 🔍 Referências
 
